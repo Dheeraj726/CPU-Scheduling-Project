@@ -1,0 +1,70 @@
+body{
+  background-image:linear-gradient(rgb(230, 230, 12),rgb(140, 197, 197))
+}
+h1{
+    text-align:center ;
+    color: rgb(237, 240, 245);
+   
+     }
+     #algo{
+       color:rgb(175, 15, 20);
+       text-align: center;
+       font-size: 40px;
+       width: 30%;
+       border: 2px solid rgb(11, 11, 11);
+       border-radius: 6px;
+         margin: 2px 6;
+         outline: none;
+         padding: 6px;
+         text-decoration: none;
+       
+     }
+     a{
+      text-decoration: none;
+     }
+     #algo:hover{
+       color: yellow;
+       background-color: blueviolet;
+     }
+     div{
+         text-align: center;
+         
+     }
+     input[type=text]{
+         width: 20%;
+         border: 2px solid rgb(118, 116, 116);
+         border-radius: 6px;
+         margin: 3px 0;
+         outline: none;
+         padding: 16px;
+ 
+     }
+     h3{
+         text-align: center;
+         color: rgb(103, 34, 16);
+     }
+     footer{
+       margin-top: 2rem;
+       text-align: center;
+       color: red;
+     }
+ .bg{
+     background-color: #365ca2;
+     font-size: 30px;
+     margin-top: 2rem;
+    border: solid rgb(17, 17, 17) .4rem;
+     
+
+ }
+ .img{
+     text-align:center ;
+     padding: 2rem;
+ }
+ .button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(61, 58, 58);
+    margin-top: 1px;
+ }
+ .intro{
+  color: rgb(15, 15, 14);
+ }
